@@ -1,0 +1,191 @@
+{
+  "users": [
+    {
+      "username": "raditdanu",
+      "email": "raditdanu@zet.com",
+      "password": "zetsudatye69",
+      "id": 1
+    },
+    {
+      "username": "raditzet",
+      "email": "radit@zet.hotmail.com",
+      "password": "raditzet",
+      "id": 2
+    },
+    {
+      "username": "raditz",
+      "email": "raditz@zz.com",
+      "password": "raditz",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "name": "Kangkung",
+      "desc": "Kangkung Segar Baru Petik Dari Kebun Tetangga",
+      "price": "5000",
+      "src": "https://www.compassfresh.com/500-large_default/spinach-water-kangkung-250-gr.jpg",
+      "id": 1
+    },
+    {
+      "name": "Ayam",
+      "desc": "Ayam Tiren",
+      "price": "30000",
+      "src": "https://www.tabengan.com/wp-content/uploads/2018/06/ayam-potong-mahal.jpg",
+      "id": 2
+    },
+    {
+      "name": "Daging Sapi",
+      "desc": "Bacon",
+      "price": "50000",
+      "src": "https://cdn.sindonews.net/dyn/620/content/2017/05/03/155/1202161/fakta-daging-sapi-baik-untuk-kesehatan-tubuh-LYp.jpg",
+      "id": 3
+    },
+    {
+      "name": "Telur Ayam",
+      "desc": "Sesuai Namanya",
+      "price": "35000",
+      "src": "https://sc01.alicdn.com/kf/HTB1U4bPMVXXXXX5XFXXq6xXFXXXt/ostrich-eggs.jpg",
+      "id": 4
+    },
+    {
+      "name": "Ngeng-Ngeng an",
+      "desc": "Ngeng-Ngeng an Ori, baru 1x pakai, 90% masih mulus",
+      "price": 125000,
+      "src": "https://www.rcjaz.com/images/tamiya_mini_4wd_series/mini_4wd_car_kit/b_19440.jpg",
+      "id": 5
+    }
+  ],
+  "carts": [
+    {
+      "username": "raditzet",
+      "quantity": 1,
+      "productId": 5,
+      "item": {
+        "name": "Ngeng-Ngeng an",
+        "desc": "Tamiya Ori, baru 1x pakai, 90% masih mulus",
+        "price": "125000",
+        "src": "https://www.rcjaz.com/images/tamiya_mini_4wd_series/mini_4wd_car_kit/b_19440.jpg",
+        "id": 5
+      },
+      "id": 1
+    },
+    {
+      "username": "raditzet",
+      "quantity": 4,
+      "productId": 4,
+      "item": {
+        "name": "Telur Ayam",
+        "desc": "Sesuai Namanya",
+        "price": "35000",
+        "src": "https://sc01.alicdn.com/kf/HTB1U4bPMVXXXXX5XFXXq6xXFXXXt/ostrich-eggs.jpg",
+        "id": 4
+      },
+      "id": 2
+    },
+    {
+      "username": "raditzet",
+      "quantity": 7,
+      "productId": 3,
+      "item": {
+        "name": "Daging Sapi",
+        "desc": "Bacon",
+        "price": "50000",
+        "src": "https://cdn.sindonews.net/dyn/620/content/2017/05/03/155/1202161/fakta-daging-sapi-baik-untuk-kesehatan-tubuh-LYp.jpg",
+        "id": 3
+      },
+      "id": 3
+    },
+    {
+      "username": "raditzet",
+      "quantity": 4,
+      "productId": 2,
+      "item": {
+        "name": "Ayam",
+        "desc": "Ayam Tiren",
+        "price": "30000",
+        "src": "https://www.tabengan.com/wp-content/uploads/2018/06/ayam-potong-mahal.jpg",
+        "id": 2
+      },
+      "id": 4
+    },
+    {
+      "username": "raditzet",
+      "quantity": 3,
+      "productId": 1,
+      "item": {
+        "name": "Kangkung",
+        "desc": "Kangkung Segar Baru Petik Dari Kebun Tetangga",
+        "price": "5000",
+        "src": "https://www.compassfresh.com/500-large_default/spinach-water-kangkung-250-gr.jpg",
+        "id": 1
+      },
+      "id": 5
+    },
+    {
+      "username": "raditz",
+      "quantity": 11,
+      "productId": 5,
+      "item": {
+        "name": "Ngeng-Ngeng an",
+        "desc": "Ngeng-Ngeng an Ori, baru 1x pakai, 90% masih mulus",
+        "price": 125000,
+        "src": "https://www.rcjaz.com/images/tamiya_mini_4wd_series/mini_4wd_car_kit/b_19440.jpg",
+        "id": 5
+      },
+      "id": 6
+    },
+    {
+      "username": "raditz",
+      "quantity": 5,
+      "productId": 4,
+      "item": {
+        "name": "Telur Ayam",
+        "desc": "Sesuai Namanya",
+        "price": "35000",
+        "src": "https://sc01.alicdn.com/kf/HTB1U4bPMVXXXXX5XFXXq6xXFXXXt/ostrich-eggs.jpg",
+        "id": 4
+      },
+      "id": 7
+    },
+    {
+      "username": "raditz",
+      "quantity": 10,
+      "productId": 3,
+      "item": {
+        "name": "Daging Sapi",
+        "desc": "Bacon",
+        "price": "50000",
+        "src": "https://cdn.sindonews.net/dyn/620/content/2017/05/03/155/1202161/fakta-daging-sapi-baik-untuk-kesehatan-tubuh-LYp.jpg",
+        "id": 3
+      },
+      "id": 8
+    },
+    {
+      "username": "raditz",
+      "quantity": 8,
+      "productId": 2,
+      "item": {
+        "name": "Ayam",
+        "desc": "Ayam Tiren",
+        "price": "30000",
+        "src": "https://www.tabengan.com/wp-content/uploads/2018/06/ayam-potong-mahal.jpg",
+        "id": 2
+      },
+      "id": 9
+    },
+    {
+      "username": "raditz",
+      "quantity": 6,
+      "productId": 1,
+      "item": {
+        "name": "Kangkung",
+        "desc": "Kangkung Segar Baru Petik Dari Kebun Tetangga",
+        "price": "5000",
+        "src": "https://www.compassfresh.com/500-large_default/spinach-water-kangkung-250-gr.jpg",
+        "id": 1
+      },
+      "id": 10
+    }
+  ]
+}
